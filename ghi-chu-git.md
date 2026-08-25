@@ -1,0 +1,1 @@
+-e "1. git init: Khoi tao repo\n2. git add: Them vao staging\n3. git commit: Luu thay doi\n4. git status: Xem trang thai\n5. git push: Day code len server" 
